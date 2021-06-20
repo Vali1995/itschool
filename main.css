@@ -1,0 +1,7 @@
+.form-inline {
+    align-items: center;
+    color: black;
+}
+.navbar navbar-expand-lg navbar-light bg-light {
+    border-style: ridge;
+}
